@@ -419,7 +419,7 @@ main.drake-main {
 
 .responsive-sidebar-menu .sidebar-menu-inner .sidebar-social ul li a {
     color: #ffffff;
-    
+
     font-size: 16px;
 }
 
@@ -808,7 +808,7 @@ main.drake-main {
     display: block;
     width: 50px;
     height: 50px;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     border: 2px solid #565656;
@@ -1129,7 +1129,7 @@ body .body-overlay {
 .skills .skill .skill-inner {
     border: 2px solid #565656;
     border-radius: 85px;
-    padding: 54px 0 48px 0;
+    padding: 3rem;
     margin-bottom: 20px;
     transition: .3s;
 }
@@ -1138,7 +1138,7 @@ body .body-overlay {
     border-color: var(--primary_color);
 }
 
-.skills .skill .skill-inner img {
+.skills .skill .skill-inner svg {
     display: block;
     margin: auto auto 29px auto;
 }
